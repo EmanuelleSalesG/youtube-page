@@ -10,10 +10,8 @@ CSS Techniques: Nested Layouts, Display Block/inline-block, Grid, Flexbox, Posit
 
 ## Project Structure
 
-The project is structured as follows:<br />
-
 ### youtube.html:
-The primary HTML file that structures the video page.<br />
+The primary HTML file that structures the video page.
 ### css/: 
 Folder containing the CSS styles.<br />
 ### general.css: 
