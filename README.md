@@ -4,8 +4,8 @@ Welcome to my YouTube Video Page project! This project is a part of my learning 
 
 ## Project Highlights
 
-Course: SuperSimpleDev with Simon
-Duration: 1 week (first month of learning)
+Course: SuperSimpleDev with Simon<br />
+Duration: 1 week (first month of learning)<br />
 CSS Techniques: Nested Layouts, Display Block/inline-block, Grid, Flexbox, Position.
 
 ## Project Structure
