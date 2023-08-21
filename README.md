@@ -14,20 +14,13 @@ The project is structured as follows:<br />
 
 ### youtube.html: 
 The primary HTML file that structures the video page.<br />
-### css/: 
-Folder containing the CSS styles.<br />
-### general.css: 
-CSS file containing the project's general styling.<br />
-### header.css: 
-CSS file containing the project's header styling.<br />
-### sidebar.css: 
-CSS file containing the project's sidebar styling.<br />
-### video.css: 
-CSS file containing the project's video styling.<br />
-### images/: 
-Folder containing image assets, including video thumbnails.<br />
-### README.md: 
-Project documentation and overview.<br />
+css/: Folder containing the CSS styles.<br />
+general.css: CSS file containing the project's general styling.<br />
+header.css: CSS file containing the project's header styling.<br />
+sidebar.css: CSS file containing the project's sidebar styling.<br />
+video.css: CSS file containing the project's video styling.<br />
+images/: Folder containing image assets, including video thumbnails.<br />
+README.md: Project documentation and overview.<br />
 
 ## What I Learned
 Throughout this project, I applied various CSS techniques learned in the "SuperSimpleDev with Simon" project, including Nested Layouts, Display Block/inline-block, Grid, Flexbox, and Position. Despite being in the early stages of my learning journey, I was able to complete this project within a week, showcasing my progress in web development.
